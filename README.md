@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @FunkySheepStudio
+- 👀 I’m interested in game dev
+- 🌱 I’m currently learning unity 3d
+- 💞️ I’m looking to collaborate on games dev
+- 📫 How to reach me funkysheep@protonmail.com
